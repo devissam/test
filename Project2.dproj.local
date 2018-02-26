@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/26 10:20:20.000.725,=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Unit3.pas</Transaction>
+    <Transaction>2018/02/14 09:37:13.000.993,=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2018/02/14 09:51:01.000.867,=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2018/02/26 14:54:47.000.888,=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Unit3.pas</Transaction>
+    <Transaction>2018/02/26 14:55:17.000.425,C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Unit3.dfm=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\test gitlab\Unit3.dfm</Transaction>
+    <Transaction>2018/02/26 14:55:17.000.425,C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Unit3.pas=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\test gitlab\Unit3.pas</Transaction>
+    <Transaction>2018/02/26 14:55:20.000.514,C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\Project2.dproj=C:\Users\issam.mzirira\Documents\Embarcadero\Studio\Projets\test gitlab\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
