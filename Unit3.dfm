@@ -40,4 +40,12 @@ object Form3: TForm3
     TabOrder = 2
     OnClick = Button2Click
   end
+  object Panel1: TPanel
+    Left = 24
+    Top = 8
+    Width = 481
+    Height = 33
+    Caption = 'Panel1'
+    TabOrder = 3
+  end
 end
