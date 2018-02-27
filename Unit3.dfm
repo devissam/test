@@ -48,4 +48,12 @@ object Form3: TForm3
     Caption = 'Panel1'
     TabOrder = 3
   end
+  object dxActivityIndicator1: TdxActivityIndicator
+    Left = 39
+    Top = 88
+    Width = 115
+    Height = 116
+    PropertiesClassName = 'TdxActivityIndicatorHorizontalDotsProperties'
+    Active = True
+  end
 end
