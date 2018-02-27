@@ -29,8 +29,10 @@ type
     Button3: TButton;
     Panel1: TPanel;
     dxActivityIndicator1: TdxActivityIndicator;
+    Button4: TButton;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
+    procedure Button4Click(Sender: TObject);
   private
     { Déclarations privées }
   public
@@ -52,6 +54,11 @@ end;
 procedure TForm3.Button2Click(Sender: TObject);
 begin
   ShowMessage('Second Hello World');
+end;
+
+procedure TForm3.Button4Click(Sender: TObject);
+begin
+ShowMessage('testr');
 end;
 
 end.

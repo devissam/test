@@ -23,10 +23,10 @@ object Form3: TForm3
     OnClick = Button1Click
   end
   object Button2: TButton
-    Left = 318
-    Top = 47
+    Left = 273
+    Top = 88
     Width = 187
-    Height = 66
+    Height = 25
     Caption = 'Button2'
     TabOrder = 1
     OnClick = Button2Click
@@ -49,11 +49,19 @@ object Form3: TForm3
     TabOrder = 3
   end
   object dxActivityIndicator1: TdxActivityIndicator
-    Left = 39
-    Top = 88
+    Left = 24
+    Top = 69
     Width = 115
     Height = 116
     PropertiesClassName = 'TdxActivityIndicatorHorizontalDotsProperties'
-    Active = True
+  end
+  object Button4: TButton
+    Left = 96
+    Top = 210
+    Width = 75
+    Height = 25
+    Caption = 'Button4'
+    TabOrder = 5
+    OnClick = Button4Click
   end
 end
